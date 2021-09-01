@@ -15,7 +15,8 @@ mobaxterm           | general session/rdp managemnent
 devolutions         | strong competition for mobaxterm, I don't use it enough to KNOW it's better
 PuTTY               | acceptable for some hopboxes and weird shit
 cli ssh             | sometimes you just wanna ssh into a box
-
+WinSCP              | not a session manager, but sometimes you just gotta transfer a file
+RDC (Windows)
 ## Version Control 
 Tool                | What it's good for
 ------------        | -------------
@@ -31,7 +32,7 @@ Pycharm             | take a guess
 intellij            | java, js if you squint (probably idk lol)
 VScode again        | devops witchery, also a half-assed version of every other expensive IDE
 Visual Studio       | a whole heck of a lot 
-webstorm            | probably web dev but idfk 
+Webstorm            | probably web dev but idfk 
 
 
 ## "my fans are very loud" 
