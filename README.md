@@ -28,7 +28,25 @@ cli                 | sometimes you gotta get deep in the paint
 Tool                | Language(s)
 ------------        | -------------
 Pycharm             | take a guess
-intellij            | java 
-vscode again        | devops witchery 
+intellij            | java, js if you squint (probably idk lol)
+VScode again        | devops witchery, also a half-assed version of every other expensive IDE
 Visual Studio       | a whole heck of a lot 
+webstorm            | probably web dev but idfk 
 
+
+## "my fans are very loud" 
+
+Tool                | What it's good for
+------------        | -------------
+VirtualBox          | very nearly a linux box on-the-go
+WSL (Ubuntu)        | "I hate developing in windows but my VM's mouse pointer keeps lagging" 
+Docker for Windows  | when doing container shit 
+
+## "I am in fact employed"
+Tool                | What it's good for
+------------        | -------------
+Outlook             | email
+Onenote             | taking notes is a good idea 
+Word                | docs, sometimes
+JIRA                | say "what's the status of those blockers" to a dev at 8PM for a quick and painless death 
+Bitbucket/Stash     | version control for companies
