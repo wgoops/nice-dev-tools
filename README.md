@@ -16,7 +16,8 @@ devolutions         | strong competition for mobaxterm, I don't use it enough to
 PuTTY               | acceptable for some hopboxes and weird shit
 cli ssh             | sometimes you just wanna ssh into a box
 WinSCP              | not a session manager, but sometimes you just gotta transfer a file
-RDC (Windows)
+RDC (Windows)       | sometimes you just gotta remote into a box
+
 ## Version Control 
 Tool                | What it's good for
 ------------        | -------------
